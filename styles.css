@@ -4,7 +4,7 @@ body{
 }
 
 .card{
-    margin: 5px;
+    margin: 20px;
     border: solid black;
     width: 320px;
 }
