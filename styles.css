@@ -1,0 +1,91 @@
+body{
+    font-family: 'Calibri', sans-serif;
+    font-size: 20px;
+}
+
+.card{
+    margin: 5px;
+    border: solid black;
+    width: 320px;
+}
+
+.card div{
+    padding: 5px 15px;
+    margin: 5px;
+    font-weight:400;
+    display: flex;
+}
+.bold{
+    font-weight: 600;
+}
+
+.card div p{
+    margin: 0;
+}
+
+div img{
+    width: 320px;
+    background-color: black;
+}
+
+#order-id{
+    padding-left: 15px;
+}
+#name{
+    padding-left: 36px;
+}
+#phone{
+    padding-left: 34px;
+}
+#address{
+    padding-left: 21px;
+    display: block;
+    height: auto;
+    
+}
+#product{
+    padding-left: 18px;
+    display: block;
+    height: auto;
+}
+
+
+
+#pd{
+    font-size: 23px;
+}
+
+#product-price{
+    padding-left: 22px;
+}
+
+#delivery-charge{
+    padding-left: 2px;
+}
+#total-to-pay{
+    padding-left: 35px;
+}
+
+
+.qr-etc{
+    display: flex;
+}
+.f{
+    width: 185px;
+}
+.f img{
+    width: 150px;
+}
+.s{
+    width: 125px;
+}
+.s img{
+    padding-left: 10px;
+    background-color: white;
+    width: 66px;
+}
+
+.footer{
+    font-size: 10px;
+    justify-content: center;
+}
